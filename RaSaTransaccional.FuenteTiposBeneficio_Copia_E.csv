@@ -1,0 +1,850 @@
+"IdTipoBeneficio_T";"Nombre";"UnidadDelLimite";"EsEHB";"EstaCubiertaPorSeguro";"TieneLimiteCuantitativo";"ExcluidoDelDesembolsoMaximoDentroDeLaRed";"ExcluidoDelDesembolsoMaximoFueraDeLaRed";"Fecha"
+565;"Nutritional Counseling";"";"No";"Yes";"No";"No";"Yes";2017
+795;"Rehabilitative Speech Therapy";"Days per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2017
+200;"Denture Adjustments";"";"No";"Yes";"No";"No";"Yes";2017
+335;"Hearing Aids";"Item(s) per 3 Years";"Yes";"Yes";"Yes";"No";"Yes";2017
+570;"Occlusal Adjustments";"Procedure(s) per 3 Years";"No";"Yes";"Yes";"No";"Yes";2017
+735;"Preventive Care/Screening/Immunization";"";"Yes";"Yes";"No";"No";"Yes";2017
+865;"Skilled Nursing Facility";"";"Yes";"No";"No";"No";"No";2017
+880;"Specialty Drugs";"";"Yes";"Yes";"No";"No";"No";2017
+135;"Chiropractic Care";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+510;"Newborn Hearing Screening";"";"No";"Yes";"No";"No";"No";2017
+790;"Rehabilitative Occupational and Rehabilitative Physical Therapy";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+360;"Hospice Services";"Months per Lifetime";"Yes";"Yes";"Yes";"No";"No";2017
+865;"Skilled Nursing Facility";"Days per Stay";"Yes";"Yes";"Yes";"No";"Yes";2018
+400;"Infusion Therapy";"";"No";"Yes";"No";"No";"Yes";2018
+330;"Habilitation Services";"";"Yes";"Yes";"No";"No";"Yes";2017
+1030;"Weight Loss Programs";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+275;"Eye Glasses for Children";"";"Yes";"Yes";"No";"No";"No";2018
+365;"Human Leukocyte Antigen Testing";"Procedure(s) per Lifetime";"No";"Yes";"Yes";"No";"Yes";2017
+655;"Partial Pulpotomy";"";"No";"Yes";"No";"No";"Yes";2017
+820;"Routine Dental Services (Adult)";"Visit(s) per Year";"No";"Yes";"Yes";"Yes";"Yes";2018
+870;"Smoking Cessation Aids";"";"No";"Yes";"No";"No";"Yes";2018
+90;"Blood and Blood Services";"";"No";"Yes";"No";"No";"No";2017
+990;"Transplant";"Dollars per Procedure";"Yes";"Yes";"Yes";"No";"No";2017
+125;"Cardiac and Pulmonary Rehabilitation";"Days per Lifetime";"No";"Yes";"Yes";"No";"Yes";2018
+1030;"Weight Loss Programs";"";"Yes";"No";"No";"No";"No";2017
+1045;"Wigs";"Item(s) per Year";"No";"Yes";"Yes";"No";"No";2017
+735;"Preventive Care/Screening/Immunization";"Exam(s) per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+190;"Dental Check-Up for Children";"Visit(s) per 6 Months";"Yes";"Yes";"Yes";"No";"No";2017
+210;"Devices and Supplies for Sleep Treatment";"";"No";"Yes";"No";"No";"Yes";2018
+350;"Home Health Care Services";"Days per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+820;"Routine Dental Services (Adult)";"";"No";"No";"No";"No";"No";2017
+825;"Routine Eye Exam (Adult)";"Visit(s) per Year";"No";"Yes";"Yes";"Yes";"Yes";2018
+330;"Habilitation Services";"Visit(s) per Benefit Period";"Yes";"Yes";"No";"No";"No";2018
+350;"Home Health Care Services";"";"Yes";"Yes";"No";"No";"No";2017
+165;"Cosmetic Surgery";"";"Yes";"Yes";"No";"No";"No";2017
+510;"Newborn Hearing Screening";"";"No";"Yes";"No";"No";"Yes";2018
+865;"Skilled Nursing Facility";"Days per Year";"No";"Yes";"Yes";"No";"No";2017
+160;"Congenital Anomaly, including Cleft Lip/Palate";"";"No";"Yes";"No";"No";"No";2017
+190;"Dental Check-Up for Children";"Exam(s) per Year";"Yes";"Yes";"Yes";"No";"No";2018
+260;"Enteral/Parenteral and Oral Nutrition Therapy";"";"No";"Yes";"No";"No";"Yes";2018
+395;"Infertility Treatment";"Procedure(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+825;"Routine Eye Exam (Adult)";"";"No";"No";"No";"No";"No";2017
+115;"Cancer Treatments";"";"Yes";"Yes";"No";"No";"No";2017
+205;"Denture Reline and Rebase";"Procedure(s) per 3 Years";"No";"Yes";"Yes";"No";"Yes";2017
+295;"Fillings";"";"No";"Yes";"No";"No";"Yes";2017
+335;"Hearing Aids";"Item(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2018
+635;"Outpatient Observation";"";"No";"Yes";"No";"No";"No";2018
+735;"Preventive Care/Screening/Immunization";"";"Yes";"Yes";"No";"No";"No";2017
+825;"Routine Eye Exam (Adult)";"Visit(s) per Benefit Period";"No";"Yes";"Yes";"No";"No";2018
+990;"Transplant";"";"Yes";"Yes";"No";"No";"Yes";2017
+360;"Hospice Services";"";"Yes";"Yes";"No";"No";"No";2017
+685;"Post and Core Build-up";"";"No";"Yes";"No";"No";"Yes";2017
+835;"Routine Foot Care";"";"Yes";"Yes";"No";"No";"No";2017
+725;"Prescription Drugs Other";"";"No";"Yes";"No";"No";"No";2017
+400;"Infusion Therapy";"";"No";"Yes";"No";"No";"No";2017
+410;"Initial Placement of Bridges and Dentures";"";"No";"Yes";"No";"No";"Yes";2017
+1030;"Weight Loss Programs";"";"Yes";"Yes";"No";"No";"No";2017
+120;"Cardiac Rehabilitation";"Visit(s) per Year";"No";"Yes";"Yes";"No";"No";2017
+135;"Chiropractic Care";"";"No";"Yes";"No";"No";"No";2017
+140;"Clinical Trials";"";"No";"Yes";"No";"No";"Yes";2017
+360;"Hospice Services";"Days per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+5;"Abortion for Which Public Funding is Prohibited";"";"Yes";"Yes";"No";"No";"Yes";2017
+75;"Bariatric Surgery";"Procedure(s) per lifetime";"Yes";"Yes";"Yes";"No";"No";2017
+440;"Long-Term/Custodial Nursing Home Care";"";"No";"No";"No";"No";"No";2017
+85;"Basic Dental Care - Child";"";"Yes";"No";"No";"No";"Yes";2018
+335;"Hearing Aids";"Item(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+640;"Outpatient Rehabilitation Services";"Visit(s) per year";"Yes";"Yes";"Yes";"No";"No";2017
+80;"Basic Dental Care - Adult";"Dollars per Year";"No";"Yes";"Yes";"No";"Yes";2018
+265;"Extractions";"";"No";"Yes";"No";"No";"Yes";2017
+770;"Prosthetic Devices";"";"Yes";"No";"No";"No";"No";2017
+830;"Routine Eye Exam for Children";"Exam(s) per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+450;"Major Dental Care - Adult";"Months per Procedure";"No";"Yes";"Yes";"Yes";"Yes";2018
+180;"Dental Anesthesia";"";"Yes";"Yes";"No";"No";"No";2017
+75;"Bariatric Surgery";"";"Yes";"Yes";"No";"No";"Yes";2017
+880;"Specialty Drugs";"Days per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+1045;"Wigs";"";"No";"Yes";"No";"No";"Yes";2017
+580;"Off-label Prescription Drugs";"";"No";"No";"No";"No";"No";2017
+620;"Other Practitioner Office Visit (Nurse, Physician Assistant)";"";"Yes";"Yes";"No";"No";"No";2017
+400;"Infusion Therapy";"";"Yes";"Yes";"No";"No";"Yes";2017
+450;"Major Dental Care - Adult";"Dollars per Benefit Period";"No";"Yes";"Yes";"Yes";"Yes";2017
+1030;"Weight Loss Programs";"";"No";"No";"No";"No";"No";2017
+370;"Hyperbaric Oxygen Therapy";"";"No";"Yes";"No";"No";"No";2018
+725;"Prescription Drugs Other";"";"No";"No";"No";"No";"No";2017
+125;"Cardiac and Pulmonary Rehabilitation";"";"No";"Yes";"No";"No";"No";2017
+830;"Routine Eye Exam for Children";"Exam(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+1015;"Urgent Care Centers or Facilities";"";"Yes";"Yes";"No";"No";"No";2017
+275;"Eye Glasses for Children";"Item(s) per year";"Yes";"Yes";"Yes";"No";"No";2017
+355;"Hospice Bereavement Services";"Treatment(s) per Benefit Period";"No";"Yes";"Yes";"No";"No";2017
+420;"Inpatient Physician and Surgical Services";"";"Yes";"Yes";"No";"No";"Yes";2017
+820;"Routine Dental Services (Adult)";"Visit(s) per 6 Months";"No";"Yes";"No";"Yes";"Yes";2017
+990;"Transplant";"";"Yes";"Yes";"No";"No";"No";2017
+520;"Non Preferred Generic Drugs";"";"No";"Yes";"No";"No";"Yes";2018
+450;"Major Dental Care - Adult";"Dollars per Year";"No";"Yes";"Yes";"No";"Yes";2018
+725;"Prescription Drugs Other";"";"No";"Yes";"No";"No";"Yes";2017
+30;"Allergy Testing";"";"No";"Yes";"No";"No";"No";2017
+865;"Skilled Nursing Facility";"Days per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2017
+225;"Dialysis";"";"Yes";"Yes";"No";"No";"No";2017
+275;"Eye Glasses for Children";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+590;"Orthodontia - Adult";"";"No";"No";"No";"Yes";"Yes";2017
+735;"Preventive Care/Screening/Immunization";"Exam(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2018
+10;"Accidental Dental";"Treatment(s) per Episode";"No";"Yes";"Yes";"No";"Yes";2017
+710;"Prenatal and Postnatal Care";"";"Yes";"Yes";"No";"No";"Yes";2017
+320;"Genetic Testing Lab Services";"";"No";"Yes";"No";"No";"Yes";2018
+40;"Anesthesia";"";"No";"Yes";"No";"No";"No";2017
+75;"Bariatric Surgery";"";"Yes";"Yes";"No";"No";"No";2017
+1000;"Treatment for Temporomandibular Joint Disorders";"Item(s) per 6 Months";"Yes";"Yes";"Yes";"No";"No";2018
+255;"Emergency Transportation/Ambulance";"";"Yes";"Yes";"No";"No";"No";2017
+50;"Applied Behavior Analysis Based Therapies";"Dollars per Year";"No";"Yes";"Yes";"No";"No";2017
+85;"Basic Dental Care - Child";"";"Yes";"No";"No";"No";"No";2017
+350;"Home Health Care Services";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+480;"Mental/Behavioral Health Inpatient Services";"";"Yes";"Yes";"No";"No";"No";2017
+880;"Specialty Drugs";"";"Yes";"Yes";"No";"No";"Yes";2017
+865;"Skilled Nursing Facility";"Days per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+220;"Diabetes Education";"";"Yes";"Yes";"No";"No";"No";2017
+360;"Hospice Services";"Days per Year";"Yes";"Yes";"Yes";"No";"No";2017
+45;"Anesthesia Services for Dental Care";"";"No";"Yes";"No";"No";"Yes";2018
+135;"Chiropractic Care";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+335;"Hearing Aids";"Dollars per Year";"Yes";"Yes";"Yes";"No";"No";2018
+395;"Infertility Treatment";"";"Yes";"Yes";"No";"No";"Yes";2017
+545;"Non-Preferred Generic Drugs";"";"No";"Yes";"No";"No";"No";2017
+175;"Delivery and All Inpatient Services for Maternity Care";"";"Yes";"Yes";"No";"No";"No";2017
+765;"Private-Duty Nursing";"Hours per Year";"Yes";"Yes";"Yes";"No";"Yes";2018
+1000;"Treatment for Temporomandibular Joint Disorders";"";"No";"Yes";"No";"No";"No";2018
+795;"Rehabilitative Speech Therapy";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+190;"Dental Check-Up for Children";"Exam(s) per 6 Months";"Yes";"Yes";"Yes";"No";"No";2017
+255;"Emergency Transportation/Ambulance";"";"Yes";"Yes";"No";"No";"Yes";2017
+350;"Home Health Care Services";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"Yes";2018
+1025;"Voluntary Sterilization";"";"No";"Yes";"No";"No";"No";2017
+810;"Retail Health Clinics";"";"No";"Yes";"No";"No";"Yes";2017
+830;"Routine Eye Exam for Children";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+350;"Home Health Care Services";"";"No";"Yes";"No";"No";"No";2017
+260;"Enteral/Parenteral and Oral Nutrition Therapy";"";"No";"Yes";"No";"No";"No";2018
+765;"Private-Duty Nursing";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+220;"Diabetes Education";"";"No";"Yes";"No";"No";"No";2017
+450;"Major Dental Care - Adult";"";"No";"No";"No";"Yes";"Yes";2017
+825;"Routine Eye Exam (Adult)";"Visit(s) per 2 Years";"No";"Yes";"Yes";"No";"No";2017
+830;"Routine Eye Exam for Children";"Visit(s) per year";"Yes";"Yes";"Yes";"No";"No";2017
+865;"Skilled Nursing Facility";"";"Yes";"Yes";"No";"No";"Yes";2017
+540;"Non-Preferred Brand Drugs";"";"No";"Yes";"No";"No";"No";2017
+450;"Major Dental Care - Adult";"";"No";"No";"No";"No";"No";2017
+640;"Outpatient Rehabilitation Services";"Visit(s) per Year";"No";"Yes";"Yes";"No";"No";2018
+820;"Routine Dental Services (Adult)";"Visit(s) per Year";"No";"Yes";"No";"Yes";"Yes";2017
+835;"Routine Foot Care";"";"No";"No";"No";"No";"No";2017
+900;"Substance Abuse Disorder Outpatient Services";"";"Yes";"Yes";"No";"No";"Yes";2017
+95;"Bone Marrow Testing";"";"No";"Yes";"No";"No";"No";2017
+305;"Generic Drugs";"";"Yes";"Yes";"No";"No";"No";2017
+790;"Rehabilitative Occupational and Rehabilitative Physical Therapy";"";"No";"Yes";"No";"No";"No";2017
+875;"Specialist Visit";"";"Yes";"Yes";"No";"No";"Yes";2017
+560;"Nutrition/Formulas";"";"No";"Yes";"No";"No";"No";2017
+180;"Dental Anesthesia";"";"No";"Yes";"No";"No";"No";2017
+405;"Inherited Metabolic Disorder - PKU";"";"No";"Yes";"No";"No";"Yes";2017
+60;"Autism Spectrum Disorder - Intensive Level Services";"Visit(s) per Year";"No";"Yes";"Yes";"No";"No";2017
+80;"Basic Dental Care - Adult";"";"No";"Yes";"No";"Yes";"Yes";2017
+190;"Dental Check-Up for Children";"";"Yes";"No";"No";"No";"Yes";2018
+455;"Major Dental Care - Child";"";"Yes";"Yes";"No";"No";"No";2017
+5;"Abortion for Which Public Funding is Prohibited";"";"No";"No";"No";"Yes";"Yes";2018
+245;"Early Intervention Services";"";"No";"Yes";"No";"No";"No";2017
+765;"Private-Duty Nursing";"";"Yes";"Yes";"No";"No";"No";2017
+385;"Implants";"";"No";"Yes";"No";"No";"Yes";2017
+595;"Orthodontia - Child";"";"No";"Yes";"No";"Yes";"Yes";2017
+865;"Skilled Nursing Facility";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+900;"Substance Abuse Disorder Outpatient Services";"";"Yes";"Yes";"No";"No";"No";2017
+565;"Nutritional Counseling";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+320;"Genetic Testing Lab Services";"";"No";"Yes";"No";"No";"No";2018
+5;"Abortion for Which Public Funding is Prohibited";"";"No";"Yes";"No";"Yes";"No";2018
+345;"Heart Transplant";"";"No";"Yes";"No";"No";"No";2017
+400;"Infusion Therapy";"";"Yes";"Yes";"No";"No";"No";2017
+190;"Dental Check-Up for Children";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+825;"Routine Eye Exam (Adult)";"Exam(s) per Year";"No";"Yes";"Yes";"No";"No";2017
+565;"Nutritional Counseling";"";"No";"Yes";"No";"No";"No";2017
+370;"Hyperbaric Oxygen Therapy";"";"No";"Yes";"No";"No";"Yes";2018
+5;"Abortion for Which Public Funding is Prohibited";"";"No";"No";"No";"No";"No";2017
+575;"Off Label Prescription Drugs";"";"No";"Yes";"No";"No";"Yes";2017
+650;"Partial Hospitalization";"";"No";"Yes";"No";"No";"Yes";2018
+765;"Private-Duty Nursing";"Hours per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2017
+455;"Major Dental Care - Child";"Months per Procedure";"No";"Yes";"Yes";"No";"Yes";2017
+820;"Routine Dental Services (Adult)";"";"No";"Yes";"No";"No";"No";2018
+180;"Dental Anesthesia";"";"No";"No";"No";"No";"No";2017
+220;"Diabetes Education";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2018
+235;"Durable Medical Equipment";"";"Yes";"Yes";"No";"No";"Yes";2017
+155;"Complex Oral Surgery";"";"No";"Yes";"No";"No";"Yes";2017
+830;"Routine Eye Exam for Children";"";"Yes";"Yes";"No";"No";"Yes";2017
+30;"Allergy Testing";"";"No";"Yes";"No";"No";"Yes";2017
+565;"Nutritional Counseling";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+725;"Prescription Drugs Other";"";"Yes";"Yes";"No";"No";"No";2017
+765;"Private-Duty Nursing";"";"No";"No";"No";"No";"No";2017
+765;"Private-Duty Nursing";"";"Yes";"No";"No";"No";"No";2017
+540;"Non-Preferred Brand Drugs";"";"Yes";"Yes";"No";"No";"Yes";2017
+860;"Sigmoidoscopy";"Procedure(s) per Benefit Period";"No";"Yes";"Yes";"No";"No";2017
+865;"Skilled Nursing Facility";"Days per Year";"Yes";"Yes";"Yes";"No";"No";2017
+65;"Autism Spectrum Disorder - Non-Intensive Level Services";"Visit(s) per Year";"No";"Yes";"Yes";"No";"No";2017
+555;"Non-Preferred Specialty Drugs";"";"No";"Yes";"No";"No";"No";2018
+435;"Laboratory Outpatient and Professional Services";"";"Yes";"Yes";"No";"No";"No";2017
+790;"Rehabilitative Occupational and Rehabilitative Physical Therapy";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2017
+825;"Routine Eye Exam (Adult)";"Exam(s) per 2 Years";"No";"Yes";"Yes";"No";"No";2017
+565;"Nutritional Counseling";"";"Yes";"Yes";"No";"No";"No";2017
+80;"Basic Dental Care - Adult";"";"No";"No";"No";"Yes";"Yes";2018
+1015;"Urgent Care Centers or Facilities";"";"No";"Yes";"No";"No";"No";2017
+395;"Infertility Treatment";"";"Yes";"Yes";"No";"No";"No";2017
+795;"Rehabilitative Speech Therapy";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+815;"Root Canal Therapy and Retreatment";"";"No";"Yes";"No";"No";"Yes";2017
+350;"Home Health Care Services";"";"Yes";"Yes";"No";"No";"Yes";2017
+455;"Major Dental Care - Child";"";"No";"Yes";"No";"No";"Yes";2017
+190;"Dental Check-Up for Children";"Treatment(s) per 6 Months";"Yes";"Yes";"Yes";"No";"No";2018
+565;"Nutritional Counseling";"Visit(s) per Year";"No";"Yes";"Yes";"No";"No";2017
+640;"Outpatient Rehabilitation Services";"";"Yes";"Yes";"No";"No";"No";2017
+695;"Post-cochlear implant aural therapy";"Visit(s) per Year";"No";"Yes";"Yes";"No";"No";2017
+635;"Outpatient Observation";"";"No";"Yes";"No";"No";"Yes";2018
+690;"Post-Mastectomy Care";"";"No";"Yes";"No";"No";"No";2017
+950;"Third Opinion";"";"Yes";"Yes";"No";"No";"No";2017
+135;"Chiropractic Care";"";"No";"No";"No";"No";"No";2018
+25;"Allergy Injections";"";"No";"Yes";"No";"No";"Yes";2018
+750;"Primary Care Visit to Treat an Injury or Illness";"";"Yes";"Yes";"No";"No";"Yes";2017
+670;"Periodontal Root Scaling and Planing";"Procedure(s) per 2 Years";"No";"Yes";"Yes";"No";"Yes";2017
+335;"Hearing Aids";"Item(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2017
+525;"Non Preferred Specialty Drugs";"";"No";"Yes";"No";"No";"Yes";2018
+865;"Skilled Nursing Facility";"Days per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+865;"Skilled Nursing Facility";"Days per Stay";"Yes";"Yes";"Yes";"No";"No";2017
+130;"Chemotherapy";"";"Yes";"Yes";"No";"No";"Yes";2017
+190;"Dental Check-Up for Children";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2018
+565;"Nutritional Counseling";"";"Yes";"Yes";"No";"No";"Yes";2017
+850;"Second Surgical Opinion";"";"No";"Yes";"No";"No";"No";2017
+190;"Dental Check-Up for Children";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+380;"Immediate Dentures";"";"No";"Yes";"No";"No";"Yes";2017
+640;"Outpatient Rehabilitation Services";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+770;"Prosthetic Devices";"";"Yes";"Yes";"No";"No";"No";2017
+595;"Orthodontia - Child";"";"Yes";"Yes";"No";"No";"No";2017
+135;"Chiropractic Care";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+1040;"Well Child Care";"";"No";"Yes";"No";"No";"No";2017
+275;"Eye Glasses for Children";"Item(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2017
+825;"Routine Eye Exam (Adult)";"Visit(s) per Benefit Period";"No";"Yes";"No";"Yes";"Yes";2018
+865;"Skilled Nursing Facility";"";"No";"No";"No";"No";"No";2017
+190;"Dental Check-Up for Children";"Visit(s) per 6 Months";"No";"Yes";"Yes";"No";"Yes";2017
+275;"Eye Glasses for Children";"";"Yes";"Yes";"No";"No";"Yes";2017
+760;"Primary care e-Visit";"";"No";"Yes";"No";"No";"Yes";2017
+460;"Mental Health Other";"";"No";"Yes";"No";"No";"No";2017
+10;"Accidental Dental";"";"Yes";"Yes";"No";"No";"Yes";2017
+230;"Domestic Violence Treatment";"";"Yes";"Yes";"No";"No";"No";2017
+770;"Prosthetic Devices";"Dollars per Year";"Yes";"Yes";"Yes";"No";"No";2018
+190;"Dental Check-Up for Children";"";"Yes";"Yes";"No";"No";"Yes";2017
+190;"Dental Check-Up for Children";"Visit(s) per Year";"Yes";"No";"Yes";"No";"No";2018
+795;"Rehabilitative Speech Therapy";"Visit(s) per year";"Yes";"Yes";"Yes";"No";"No";2017
+245;"Early Intervention Services";"Visit(s) per Year";"No";"Yes";"Yes";"No";"Yes";2017
+50;"Applied Behavior Analysis Based Therapies";"";"No";"Yes";"No";"No";"Yes";2017
+190;"Dental Check-Up for Children";"Visit(s) per Year";"No";"Yes";"Yes";"No";"Yes";2017
+780;"Recementation of Space Maintainers";"";"No";"Yes";"No";"No";"Yes";2017
+15;"Acupuncture";"";"No";"Yes";"No";"No";"No";2017
+530;"Non-Emergency Care When Traveling Outside of the U.S.";"";"No";"Yes";"No";"No";"No";2017
+995;"Transplant Donor Coverage";"";"No";"Yes";"No";"No";"No";2017
+405;"Inherited Metabolic Disorder - PKU";"";"No";"Yes";"No";"No";"No";2017
+765;"Private-Duty Nursing";"Hours per Year";"Yes";"Yes";"Yes";"No";"No";2017
+895;"Substance Abuse Disorder Inpatient Services";"";"Yes";"Yes";"No";"No";"No";2017
+330;"Habilitation Services";"";"Yes";"Yes";"No";"No";"No";2017
+790;"Rehabilitative Occupational and Rehabilitative Physical Therapy";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+1030;"Weight Loss Programs";"";"Yes";"Yes";"No";"No";"Yes";2017
+215;"Diabetes Care Management";"";"No";"Yes";"No";"No";"Yes";2017
+845;"Second Opinion";"";"No";"Yes";"No";"No";"No";2017
+610;"Osteoporosis Treatment";"";"No";"Yes";"No";"No";"Yes";2018
+85;"Basic Dental Care - Child";"";"Yes";"Yes";"No";"No";"Yes";2017
+640;"Outpatient Rehabilitation Services";"";"Yes";"Yes";"No";"No";"Yes";2017
+840;"Sealants";"Procedure(s) per 3 Years";"No";"Yes";"Yes";"No";"Yes";2017
+1015;"Urgent Care Centers or Facilities";"";"Yes";"Yes";"No";"No";"Yes";2017
+190;"Dental Check-Up for Children";"Visit(s) per 6 months";"Yes";"Yes";"Yes";"No";"No";2017
+710;"Prenatal and Postnatal Care";"";"Yes";"Yes";"No";"No";"No";2017
+25;"Allergy Injections";"";"No";"Yes";"No";"No";"No";2018
+415;"Inpatient Hospital Services (e.g., Hospital Stay)";"";"Yes";"Yes";"No";"No";"Yes";2017
+1010;"Treatment of hemophilia";"";"No";"Yes";"No";"No";"Yes";2018
+675;"Periodontal and Osseous Surgery";"Procedure(s) per 3 Years";"No";"Yes";"Yes";"No";"Yes";2017
+770;"Prosthetic Devices";"Item(s) per 3 Years";"Yes";"Yes";"Yes";"No";"No";2017
+610;"Osteoporosis Treatment";"";"No";"Yes";"No";"No";"No";2018
+705;"Preferred Generic Drugs";"";"No";"Yes";"No";"No";"No";2018
+830;"Routine Eye Exam for Children";"Exam(s) per Year";"Yes";"Yes";"No";"No";"No";2017
+830;"Routine Eye Exam for Children";"Exam(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+505;"Naprapathic Service";"Visit(s) per Benefit Period";"No";"Yes";"No";"No";"No";2018
+595;"Orthodontia - Child";"";"No";"No";"No";"No";"No";2017
+350;"Home Health Care Services";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2017
+375;"Imaging (CT/PET Scans, MRIs)";"";"Yes";"Yes";"No";"No";"Yes";2017
+705;"Preferred Generic Drugs";"";"No";"Yes";"No";"No";"Yes";2018
+845;"Second Opinion";"";"Yes";"Yes";"No";"No";"No";2017
+935;"Telehealth";"";"No";"Yes";"No";"Yes";"No";2018
+215;"Diabetes Care Management";"";"No";"Yes";"No";"No";"No";2017
+220;"Diabetes Education";"";"Yes";"Yes";"No";"No";"Yes";2017
+70;"Autism Spectrum Disorders";"";"Yes";"Yes";"No";"No";"No";2017
+825;"Routine Eye Exam (Adult)";"Visit(s) per Year";"No";"Yes";"No";"Yes";"Yes";2017
+1000;"Treatment for Temporomandibular Joint Disorders";"Item(s) per 6 Months";"Yes";"Yes";"Yes";"No";"Yes";2018
+330;"Habilitation Services";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+340;"Hearing Exams/Testing";"";"No";"Yes";"No";"No";"No";2017
+405;"Inherited Metabolic Disorder - PKU";"";"No";"No";"No";"No";"No";2017
+740;"Preventive Drugs";"";"No";"Yes";"No";"No";"No";2017
+335;"Hearing Aids";"Visit(s) per 3 Years";"Yes";"Yes";"Yes";"No";"No";2017
+460;"Mental Health Other";"";"No";"No";"No";"No";"No";2017
+830;"Routine Eye Exam for Children";"Exam(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2018
+835;"Routine Foot Care";"";"No";"Yes";"No";"Yes";"Yes";2017
+15;"Acupuncture";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+15;"Acupuncture";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2018
+415;"Inpatient Hospital Services (e.g., Hospital Stay)";"";"Yes";"Yes";"No";"No";"No";2017
+795;"Rehabilitative Speech Therapy";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+1020;"Vital Pulpotomy";"";"No";"Yes";"No";"No";"Yes";2017
+1030;"Weight Loss Programs";"";"No";"Yes";"No";"Yes";"Yes";2017
+275;"Eye Glasses for Children";"Item(s) per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+290;"Family Planning Services";"";"No";"Yes";"No";"No";"No";2017
+1000;"Treatment for Temporomandibular Joint Disorders";"";"Yes";"Yes";"No";"No";"Yes";2017
+830;"Routine Eye Exam for Children";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2017
+1005;"Treatment of Hemophilia";"";"Yes";"Yes";"No";"No";"No";2017
+190;"Dental Check-Up for Children";"";"Yes";"Yes";"No";"No";"No";2017
+190;"Dental Check-Up for Children";"Treatment(s) per 6 Months";"Yes";"Yes";"Yes";"No";"Yes";2018
+660;"Pediatric Services Other";"";"No";"Yes";"No";"No";"No";2017
+785;"Reconstructive Surgery";"";"Yes";"Yes";"No";"No";"No";2017
+215;"Diabetes Care Management";"Item(s) per Month";"No";"Yes";"Yes";"No";"No";2017
+455;"Major Dental Care - Child";"";"Yes";"No";"No";"No";"No";2017
+825;"Routine Eye Exam (Adult)";"Visit(s) per Benefit Period";"No";"Yes";"Yes";"Yes";"Yes";2017
+435;"Laboratory Outpatient and Professional Services";"";"Yes";"Yes";"No";"No";"Yes";2017
+835;"Routine Foot Care";"";"Yes";"Yes";"No";"No";"Yes";2017
+1000;"Treatment for Temporomandibular Joint Disorders";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+130;"Chemotherapy";"";"Yes";"Yes";"No";"No";"No";2017
+275;"Eye Glasses for Children";"Item(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+800;"Removal of Fixed Space Maintainers";"";"No";"Yes";"No";"No";"Yes";2017
+1035;"Well Baby Visits and Care";"";"Yes";"Yes";"No";"No";"Yes";2017
+235;"Durable Medical Equipment";"Dollars per Year";"Yes";"Yes";"Yes";"No";"No";2018
+885;"Specialty Drugs Tier 2";"";"No";"Yes";"No";"No";"No";2018
+625;"Outpatient Facility Fee (e.g.,  Ambulatory Surgery Center)";"";"Yes";"Yes";"No";"No";"No";2017
+195;"Dental X-rays";"Procedure(s) per 6 Months";"No";"Yes";"Yes";"No";"Yes";2017
+455;"Major Dental Care - Child";"";"Yes";"No";"No";"No";"Yes";2018
+540;"Non-Preferred Brand Drugs";"Days per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+785;"Reconstructive Surgery";"";"Yes";"Yes";"No";"No";"Yes";2017
+865;"Skilled Nursing Facility";"Days per Year";"Yes";"Yes";"No";"No";"No";2017
+220;"Diabetes Education";"";"No";"Yes";"No";"No";"Yes";2017
+250;"Emergency Room Services";"";"Yes";"Yes";"No";"No";"No";2017
+795;"Rehabilitative Speech Therapy";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2017
+30;"Allergy Testing";"";"Yes";"Yes";"No";"No";"Yes";2017
+830;"Routine Eye Exam for Children";"Item(s) per Year";"Yes";"Yes";"Yes";"No";"No";2018
+30;"Allergy Testing";"";"Yes";"Yes";"No";"No";"No";2017
+80;"Basic Dental Care - Adult";"";"No";"Yes";"No";"No";"Yes";2017
+595;"Orthodontia - Child";"";"No";"Yes";"No";"No";"Yes";2017
+330;"Habilitation Services";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+790;"Rehabilitative Occupational and Rehabilitative Physical Therapy";"Visit(s) per Year";"No";"Yes";"Yes";"No";"No";2018
+1055;"X-rays and Diagnostic Imaging";"";"Yes";"Yes";"No";"No";"No";2017
+235;"Durable Medical Equipment";"";"Yes";"Yes";"No";"No";"No";2017
+335;"Hearing Aids";"Item(s) per Episode";"Yes";"Yes";"Yes";"No";"No";2017
+350;"Home Health Care Services";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+640;"Outpatient Rehabilitation Services";"";"No";"Yes";"No";"No";"No";2017
+405;"Inherited Metabolic Disorder - PKU";"";"Yes";"Yes";"No";"No";"No";2017
+575;"Off Label Prescription Drugs";"";"No";"Yes";"No";"No";"No";2017
+755;"Primary Care e-Visit";"";"No";"Yes";"No";"No";"Yes";2017
+765;"Private-Duty Nursing";"Days per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2018
+1055;"X-rays and Diagnostic Imaging";"";"Yes";"Yes";"No";"No";"Yes";2017
+460;"Mental Health Other";"";"Yes";"Yes";"No";"No";"No";2017
+100;"Bone Marrow Transplant";"";"No";"Yes";"No";"No";"No";2017
+795;"Rehabilitative Speech Therapy";"";"No";"Yes";"No";"No";"No";2017
+820;"Routine Dental Services (Adult)";"Dollars per Year";"No";"Yes";"Yes";"No";"Yes";2018
+75;"Bariatric Surgery";"";"No";"Yes";"No";"No";"No";2018
+605;"Osteoporosis";"";"No";"Yes";"No";"No";"No";2017
+820;"Routine Dental Services (Adult)";"";"No";"No";"No";"Yes";"Yes";2018
+835;"Routine Foot Care";"";"No";"Yes";"No";"No";"No";2017
+190;"Dental Check-Up for Children";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2018
+10;"Accidental Dental";"";"No";"Yes";"No";"Yes";"Yes";2018
+165;"Cosmetic Surgery";"Procedure(s) per Episode";"Yes";"Yes";"Yes";"No";"No";2018
+490;"Mental/Behavioral Health Outpatient Services";"";"Yes";"Yes";"No";"No";"No";2017
+825;"Routine Eye Exam (Adult)";"";"No";"Yes";"No";"No";"No";2018
+515;"Newborn Services Other";"";"No";"No";"No";"No";"No";2017
+515;"Newborn Services Other";"";"No";"Yes";"No";"No";"No";2017
+590;"Orthodontia - Adult";"";"No";"Yes";"No";"Yes";"Yes";2017
+790;"Rehabilitative Occupational and Rehabilitative Physical Therapy";"";"Yes";"Yes";"No";"No";"Yes";2017
+10;"Accidental Dental";"";"Yes";"Yes";"No";"No";"No";2017
+15;"Acupuncture";"";"No";"No";"No";"No";"No";2017
+390;"Infant Formulas";"";"Yes";"Yes";"No";"No";"No";2017
+765;"Private-Duty Nursing";"";"Yes";"Yes";"No";"No";"Yes";2017
+775;"Radiation";"";"Yes";"Yes";"No";"No";"Yes";2017
+85;"Basic Dental Care - Child";"Procedure(s) per Year";"No";"Yes";"Yes";"No";"Yes";2017
+190;"Dental Check-Up for Children";"Visit(s) per 6 Months";"Yes";"Yes";"Yes";"No";"Yes";2017
+225;"Dialysis";"";"Yes";"Yes";"No";"No";"Yes";2017
+700;"Preferred Brand Drugs";"Days per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+790;"Rehabilitative Occupational and Rehabilitative Physical Therapy";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+1035;"Well Baby Visits and Care";"";"Yes";"Yes";"No";"No";"No";2017
+275;"Eye Glasses for Children";"Item(s) per Year";"Yes";"Yes";"No";"No";"No";2017
+1030;"Weight Loss Programs";"";"No";"No";"No";"Yes";"Yes";2018
+335;"Hearing Aids";"";"No";"No";"No";"No";"No";2017
+335;"Hearing Aids";"Item(s) per 2 Years";"Yes";"Yes";"Yes";"No";"No";2017
+85;"Basic Dental Care - Child";"Visit(s) per 6 Months";"Yes";"Yes";"Yes";"No";"Yes";2017
+190;"Dental Check-Up for Children";"Visit(s) per Year";"Yes";"No";"No";"No";"No";2017
+960;"Tier 2 Rx";"";"No";"Yes";"No";"No";"No";2017
+375;"Imaging (CT/PET Scans, MRIs)";"";"True";"Yes";"No";"No";"No";2017
+795;"Rehabilitative Speech Therapy";"Visit(s) per Year";"No";"Yes";"Yes";"No";"No";2018
+215;"Diabetes Care Management";"";"No";"No";"No";"No";"No";2017
+820;"Routine Dental Services (Adult)";"Visit(s) per 6 Months";"No";"Yes";"Yes";"Yes";"Yes";2017
+105;"Brain Injury";"";"No";"Yes";"No";"No";"No";2017
+825;"Routine Eye Exam (Adult)";"Exam(s) per Year";"No";"Yes";"Yes";"Yes";"Yes";2017
+165;"Cosmetic Surgery";"";"True";"No";"No";"No";"No";2017
+865;"Skilled Nursing Facility";"";"True";"Yes";"No";"No";"No";2017
+75;"Bariatric Surgery";"Procedure(s) per Lifetime";"True";"Yes";"Yes";"No";"No";2017
+565;"Nutritional Counseling";"";"No";"No";"No";"No";"No";2017
+135;"Chiropractic Care";"Procedure(s) per Benefit Period";"True";"Yes";"Yes";"No";"No";2017
+1000;"Treatment for Temporomandibular Joint Disorders";"Treatment(s) per Lifetime";"True";"Yes";"Yes";"No";"No";2018
+750;"Primary Care Visit to Treat an Injury or Illness";"";"True";"Yes";"No";"No";"No";2017
+75;"Bariatric Surgery";"";"No";"No";"No";"No";"No";2017
+135;"Chiropractic Care";"Visit(s) per Benefit Period";"True";"Yes";"Yes";"No";"Yes";2017
+640;"Outpatient Rehabilitation Services";"Visit(s) per Year";"True";"Yes";"Yes";"No";"Yes";2017
+275;"Eye Glasses for Children";"Item(s) per Benefit Period";"True";"Yes";"Yes";"No";"No";2017
+490;"Mental/Behavioral Health Outpatient Services";"";"True";"Yes";"No";"No";"Yes";2017
+330;"Habilitation Services";"Visit(s) per Year";"True";"Yes";"No";"No";"No";2017
+135;"Chiropractic Care";"";"True";"Yes";"No";"No";"Yes";2017
+445;"Low Protein Foods";"";"No";"Yes";"No";"No";"Yes";2017
+165;"Cosmetic Surgery";"";"No";"No";"No";"No";"No";2017
+895;"Substance Abuse Disorder Inpatient Services";"";"True";"Yes";"No";"No";"Yes";2017
+305;"Generic Drugs";"";"True";"Yes";"No";"No";"Yes";2017
+1000;"Treatment for Temporomandibular Joint Disorders";"Procedure(s) per Year";"True";"Yes";"Yes";"No";"No";2017
+865;"Skilled Nursing Facility";"Visit(s) per Benefit Period";"True";"Yes";"Yes";"No";"No";2017
+820;"Routine Dental Services (Adult)";"";"No";"Yes";"No";"No";"Yes";2017
+80;"Basic Dental Care - Adult";"";"No";"False";"No";"No";"No";2017
+640;"Outpatient Rehabilitation Services";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+280;"Eye Refractive Surgery";"";"No";"Yes";"No";"No";"No";2017
+790;"Rehabilitative Occupational and Rehabilitative Physical Therapy";"Visit(s) per year";"Yes";"Yes";"Yes";"No";"No";2017
+10;"Accidental Dental";"";"No";"False";"No";"No";"No";2017
+45;"Anesthesia Services for Dental Care";"";"No";"Yes";"No";"No";"No";2018
+735;"Preventive Care/Screening/Immunization";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+835;"Routine Foot Care";"";"No";"Yes";"No";"No";"Yes";2017
+85;"Basic Dental Care - Child";"Procedure(s) per Year";"Yes";"Yes";"Yes";"No";"Yes";2018
+10;"Accidental Dental";"";"No";"Yes";"No";"No";"No";2017
+400;"Infusion Therapy";"";"No";"False";"No";"No";"No";2017
+620;"Other Practitioner Office Visit (Nurse, Physician Assistant)";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+690;"Post-Mastectomy Care";"";"No";"False";"No";"No";"No";2017
+335;"Hearing Aids";"";"Yes";"Yes";"No";"No";"Yes";2017
+595;"Orthodontia - Child";"";"Yes";"False";"No";"Yes";"Yes";2017
+1050;"Wilm's Tumor";"";"Yes";"Yes";"No";"No";"No";2017
+85;"Basic Dental Care - Child";"";"Yes";"Yes";"No";"No";"No";2017
+275;"Eye Glasses for Children";"Item(s) per 2 Years";"Yes";"Yes";"Yes";"No";"Yes";2017
+825;"Routine Eye Exam (Adult)";"Exam(s) per Year";"No";"Yes";"Yes";"No";"Yes";2017
+70;"Autism Spectrum Disorders";"";"No";"Yes";"No";"No";"Yes";2017
+650;"Partial Hospitalization";"";"No";"Yes";"No";"No";"No";2018
+775;"Radiation";"";"Yes";"Yes";"No";"No";"No";2017
+335;"Hearing Aids";"";"Yes";"Yes";"No";"No";"No";2017
+335;"Hearing Aids";"Item(s) per 3 Years";"Yes";"Yes";"Yes";"No";"No";2017
+990;"Transplant";"Exam(s) per Transplant";"Yes";"Yes";"Yes";"No";"No";2018
+220;"Diabetes Education";"";"No";"False";"No";"No";"No";2018
+795;"Rehabilitative Speech Therapy";"";"Yes";"Yes";"No";"No";"Yes";2017
+10;"Accidental Dental";"";"No";"No";"No";"Yes";"Yes";2017
+1000;"Treatment for Temporomandibular Joint Disorders";"Dollars per Year";"Yes";"Yes";"Si";"No";"No";2018
+455;"Major Dental Care - Child";"Months per Procedure";"Yes";"Yes";"Si";"No";"Yes";2018
+180;"Dental Anesthesia";"";"No";"Yes";"No";"No";"Yes";2017
+645;"Outpatient Surgery Physician/Surgical Services";"";"Yes";"Yes";"No";"No";"Yes";2017
+970;"Tier 6 Rx";"";"No";"Yes";"No";"No";"No";2017
+540;"Non-Preferred Brand Drugs";"";"Yes";"Yes";"No";"No";"No";2017
+875;"Specialist Visit";"";"Yes";"Yes";"No";"No";"No";2017
+75;"Bariatric Surgery";"Procedure(s) per Lifetime";"Yes";"Yes";"Si";"No";"Yes";2017
+10;"Accidental Dental";"";"No";"Yes";"No";"No";"Yes";2017
+190;"Dental Check-Up for Children";"";"Yes";"No";"No";"No";"No";2017
+450;"Major Dental Care - Adult";"";"No";"Yes";"No";"Yes";"Yes";2017
+440;"Long-Term/Custodial Nursing Home Care";"";"No";"No";"No";"Yes";"Yes";2018
+455;"Major Dental Care - Child";"";"No";"Yes";"No";"Yes";"Yes";2018
+305;"Generic Drugs";"Days per Benefit Period";"Yes";"Yes";"Si";"No";"No";2017
+835;"Routine Foot Care";"Visit(s) per Year";"Yes";"Yes";"Si";"No";"No";2017
+830;"Routine Eye Exam for Children";"Visit(s) per Year";"Yes";"Yes";"Si";"No";"Yes";2017
+640;"Outpatient Rehabilitation Services";"Visit(s) per Benefit Period";"Yes";"Yes";"Si";"No";"Yes";2018
+680;"Periradicular Surgical Procedures";"";"No";"Yes";"No";"No";"Yes";2017
+620;"Other Practitioner Office Visit (Nurse, Physician Assistant)";"";"Yes";"Yes";"No";"No";"Yes";2017
+825;"Routine Eye Exam (Adult)";"";"No";"Yes";"No";"Yes";"Yes";2018
+145;"Cochlear Implants";"";"No";"Yes";"No";"No";"No";2017
+395;"Infertility Treatment";"Treatment(s) per Lifetime";"Yes";"Yes";"Si";"No";"No";2017
+430;"Inpatient Rehabilitation Services";"Days per Year";"No";"Yes";"Si";"No";"Yes";2017
+330;"Habilitation Services";"Days per Year";"Yes";"Yes";"Si";"No";"No";2018
+830;"Routine Eye Exam for Children";"";"Yes";"Yes";"No";"No";"No";2017
+140;"Clinical Trials";"";"No";"Yes";"No";"No";"No";2017
+835;"Routine Foot Care";"";"Yes";"No";"Nein";"No";"No";2017
+55;"Attention Deficit Disorder";"";"No";"Yes";"Nein";"No";"No";2018
+565;"Nutritional Counseling";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2018
+565;"Nutritional Counseling";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2017
+215;"Diabetes Care Management";"";"Yes";"Yes";"Nein";"No";"No";2017
+350;"Home Health Care Services";"Days per Year";"Yes";"Yes";"Yes";"No";"No";2017
+395;"Infertility Treatment";"";"No";"Yes";"Nein";"No";"No";2017
+15;"Acupuncture";"";"No";"No";"Nein";"Yes";"Yes";2018
+510;"Newborn Hearing Screening";"";"No";"No";"Nein";"No";"No";2017
+80;"Basic Dental Care - Adult";"Dollars per Benefit Period";"No";"Yes";"Yes";"Yes";"Yes";2017
+985;"Topical Flouride";"Visit(s) per Year";"No";"Yes";"Yes";"No";"Yes";2017
+595;"Orthodontia - Child";"";"Yes";"No";"Nein";"No";"Yes";2018
+420;"Inpatient Physician and Surgical Services";"";"Yes";"Yes";"Nein";"No";"No";2017
+135;"Chiropractic Care";"Visit(s) per Year";"No";"Yes";"Yes";"No";"No";2017
+175;"Delivery and All Inpatient Services for Maternity Care";"";"Yes";"Yes";"Nein";"No";"Yes";2017
+590;"Orthodontia - Adult";"";"No";"No";"Nein";"No";"No";2017
+770;"Prosthetic Devices";"";"Yes";"Yes";"Nein";"No";"Yes";2017
+895;"Substance Abuse Disorder Inpatient Services";"Days per Lifetime";"Yes";"Yes";"Yes";"No";"No";2018
+575;"Off Label Prescription Drugs";"";"Yes";"Yes";"Nein";"No";"No";2017
+765;"Private-Duty Nursing";"";"No";"Yes";"Nein";"No";"No";2018
+165;"Cosmetic Surgery";"";"No";"Yes";"Nein";"No";"No";2017
+150;"Colonoscopy";"Procedure(s) per Benefit Period";"No";"Yes";"Yes";"No";"No";2017
+770;"Prosthetic Devices";"Item(s) per Year";"Yes";"Yes";"Yes";"No";"No";2018
+645;"Outpatient Surgery Physician/Surgical Services";"";"Yes";"Yes";"Nein";"No";"No";2017
+795;"Rehabilitative Speech Therapy";"";"Yes";"Yes";"Nein";"No";"No";2017
+395;"Infertility Treatment";"";"Yes";"No";"Nein";"No";"No";2018
+855;"Sickle Cell Anemia";"";"Yes";"Yes";"Nein";"No";"No";2017
+1000;"Treatment for Temporomandibular Joint Disorders";"";"Yes";"Yes";"No";"No";"No";2017
+50;"Applied Behavior Analysis Based Therapies";"";"No";"Yes";"No";"No";"No";2017
+595;"Orthodontia - Child";"";"Yes";"Yes";"Yes";"No";"Yes";2018
+665;"Periodontal Maintenance";"";"No";"Yes";"Yes";"No";"Yes";2017
+15;"Acupuncture";"";"No";"Yes";"Yes";"No";"Yes";2017
+805;"Restorative Services";"";"No";"Yes";"No";"No";"Yes";2017
+395;"Infertility Treatment";"";"No";"No";"No";"No";"No";2017
+145;"Cochlear Implants";"";"No";"Yes";"No";"No";"Yes";2018
+980;"Tissue Conditioning";"";"No";"Yes";"No";"No";"Yes";2017
+700;"Preferred Brand Drugs";"";"Yes";"Yes";"No";"No";"No";2017
+595;"Orthodontia - Child";"";"Yes";"Yes";"Yes";"No";"No";2018
+1000;"Treatment for Temporomandibular Joint Disorders";"";"No";"No";"No";"No";"No";2017
+455;"Major Dental Care - Child";"";"Yes";"Yes";"No";"No";"Yes";2017
+425;"Inpatient Rehabilitation";"";"No";"Yes";"Yes";"No";"No";2017
+625;"Outpatient Facility Fee (e.g.,  Ambulatory Surgery Center)";"";"Yes";"Yes";"No";"No";"Yes";2017
+535;"Non-Emergency Care When Traveling Outside the U.S.";"";"No";"Yes";"No";"No";"No";2018
+600;"Orthotics";"";"No";"Yes";"No";"No";"Yes";2018
+325;"Gym Access";"";"No";"No";"No";"No";"No";2017
+820;"Routine Dental Services (Adult)";"";"No";"Yes";"No";"Yes";"Yes";2017
+765;"Private-Duty Nursing";"";"Yes";"Yes";"Yes";"No";"No";2017
+125;"Cardiac and Pulmonary Rehabilitation";"";"No";"Yes";"Yes";"No";"No";2018
+735;"Preventive Care/Screening/Immunization";"";"Yes";"Yes";"Yes";"No";"No";2018
+595;"Orthodontia - Child";"";"Yes";"Yes";"No";"No";"Yes";2017
+765;"Private-Duty Nursing";"";"Yes";"Yes";"Yes";"No";"No";2018
+5;"Abortion for Which Public Funding is Prohibited";"";"Yes";"Yes";"No";"No";"No";2017
+640;"Outpatient Rehabilitation Services";"";"Yes";"Yes";"No";"No";"No";2018
+480;"Mental/Behavioral Health Inpatient Services";"";"Yes";"Yes";"No";"No";"Yes";2017
+315;"Genetic Testing";"";"No";"Yes";"No";"No";"No";2017
+330;"Habilitation Services";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+790;"Rehabilitative Occupational and Rehabilitative Physical Therapy";"";"Yes";"Yes";"No";"No";"No";2017
+1030;"Weight Loss Programs";"";"No";"Yes";"No";"No";"No";2018
+700;"Preferred Brand Drugs";"";"Yes";"Yes";"No";"No";"Yes";2017
+595;"Orthodontia - Child";"Treatment(s) per Lifetime";"Yes";"Yes";"Yes";"No";"No";2018
+335;"Hearing Aids";"Item(s) per 3 Years";"Yes";"Yes";"No";"No";"Yes";2017
+85;"Basic Dental Care - Child";"";"No";"Yes";"No";"No";"Yes";2017
+830;"Routine Eye Exam for Children";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+165;"Cosmetic Surgery";"";"No";"No";"No";"Algunas veces";"Yes";2018
+615;"Ostomy Supplies";"";"No";"Yes";"No";"No";"No";2017
+70;"Autism Spectrum Disorders";"";"No";"Yes";"No";"No";"No";2017
+10;"Accidental Dental";"Dollars per Episode";"Yes";"Yes";"Yes";"No";"No";2017
+395;"Infertility Treatment";"Procedure(s) per Year";"Yes";"Yes";"Yes";"No";"No";2018
+330;"Habilitation Services";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2018
+5;"Abortion for Which Public Funding is Prohibited";"";"No";"Yes";"No";"No";"No";2017
+595;"Orthodontia - Child";"";"Yes";"No";"No";"No";"No";2017
+120;"Cardiac Rehabilitation";"Visit(s) per Episode";"No";"Yes";"Yes";"No";"Yes";2017
+250;"Emergency Room Services";"";"Yes";"Yes";"No";"No";"Yes";2017
+550;"Non-Preferred Generic Presciption Drugs";"";"No";"Yes";"No";"No";"No";2017
+135;"Chiropractic Care";"Visit(s) per year";"Yes";"Yes";"Yes";"No";"No";2017
+575;"Off Label Prescription Drugs";"Days per Benefit Period";"No";"Yes";"Yes";"No";"No";2018
+135;"Chiropractic Care";"";"Yes";"Yes";"No";"No";"No";2017
+190;"Dental Check-Up for Children";"Procedure(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+585;"Oral Surgery";"";"No";"Yes";"No";"No";"Yes";2018
+140;"Clinical Trials";"";"No";"No";"No";"No";"No";2017
+395;"Infertility Treatment";"Dollars per Lifetime";"No";"Yes";"Yes";"Algunas veces";"Yes";2018
+360;"Hospice Services";"";"Yes";"Yes";"No";"No";"Yes";2017
+735;"Preventive Care/Screening/Immunization";"";"Yes";"Yes";"No";"No";"Yes";2017
+400;"Infusion Therapy";"";"Yes";"Yes";"No";"No";"No";2017
+190;"Dental Check-Up for Children";"";"Yes";"Yes";"No";"No";"Yes";2017
+820;"Routine Dental Services (Adult)";"";"No";"Yes";"No";"Yes";"Yes";2017
+550;"Non-Preferred Generic Presciption Drugs";"";"No";"Yes";"No";"No";"No";2017
+335;"Hearing Aids";"Item(s) per 3 YearsItem(s) per 3 YearsItem(s) per 3 Years";"Yes";"Yes";"No";"No";"Yes";2017
+50;"Applied Behavior Analysis Based Therapies";"Dollars per YearDollars per YearDollars per Year";"No";"Yes";"Yes";"No";"No";2017
+585;"Oral Surgery";"";"No";"Yes";"No";"No";"Yes";2018
+1000;"Treatment for Temporomandibular Joint Disorders";"Dollars per YearDollars per YearDollars per Year";"Yes";"Yes";"Yes";"No";"No";2018
+315;"Genetic Testing";"";"No";"Yes";"No";"No";"No";2017
+895;"Substance Abuse Disorder Inpatient Services";"";"Yes";"Yes";"No";"No";"No";2017
+860;"Sigmoidoscopy";"Procedure(s) per Benefit PeriodProcedure(s) per Benefit PeriodProcedure(s) per Benefit Period";"No";"Yes";"Yes";"No";"No";2017
+805;"Restorative Services";"";"No";"Yes";"No";"No";"Yes";2017
+330;"Habilitation Services";"Visit(s) per YearVisit(s) per YearVisit(s) per Year";"Yes";"Yes";"No";"No";"No";2017
+830;"Routine Eye Exam for Children";"";"Yes";"Yes";"No";"No";"Yes";2017
+180;"Dental Anesthesia";"";"Yes";"Yes";"No";"No";"No";2017
+535;"Non-Emergency Care When Traveling Outside the U.S.";"";"No";"Yes";"No";"No";"No";2018
+510;"Newborn Hearing Screening";"";"No";"Yes";"No";"No";"Yes";2018
+360;"Hospice Services";"Months per LifetimeMonths per LifetimeMonths per Lifetime";"Yes";"Yes";"Yes";"No";"No";2017
+165;"Cosmetic Surgery";"";"No";"No";"No";"No";"No";2017
+120;"Cardiac Rehabilitation";"Visit(s) per YearVisit(s) per YearVisit(s) per Year";"No";"Yes";"Yes";"No";"No";2017
+1030;"Weight Loss Programs";"";"Yes";"No";"No";"No";"No";2017
+280;"Eye Refractive Surgery";"";"No";"Yes";"No";"No";"No";2017
+215;"Diabetes Care Management";"";"No";"No";"No";"No";"No";2017
+970;"Tier 6 Rx";"";"No";"Yes";"No";"No";"No";2017
+480;"Mental/Behavioral Health Inpatient Services";"";"Yes";"Yes";"No";"No";"Yes";2017
+785;"Reconstructive Surgery";"";"Yes";"Yes";"No";"No";"No";2017
+865;"Skilled Nursing Facility";"Visit(s) per YearVisit(s) per YearVisit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+275;"Eye Glasses for Children";"Visit(s) per YearVisit(s) per YearVisit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+850;"Second Surgical Opinion";"";"No";"Yes";"No";"No";"No";2017
+190;"Dental Check-Up for Children";"";"Yes";"No";"No";"No";"No";2017
+175;"Delivery and All Inpatient Services for Maternity Care";"";"Yes";"Yes";"No";"No";"No";2017
+15;"Acupuncture";"Visit(s) per Benefit PeriodVisit(s) per Benefit PeriodVisit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+575;"Off Label Prescription Drugs";"";"No";"Yes";"No";"No";"No";2017
+830;"Routine Eye Exam for Children";"Visit(s) per Benefit PeriodVisit(s) per Benefit PeriodVisit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+640;"Outpatient Rehabilitation Services";"";"No";"Yes";"No";"No";"No";2017
+405;"Inherited Metabolic Disorder - PKU";"";"No";"Yes";"No";"No";"No";2017
+865;"Skilled Nursing Facility";"Days per YearDays per YearDays per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+830;"Routine Eye Exam for Children";"Exam(s) per YearExam(s) per YearExam(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+595;"Orthodontia - Child";"Months per LifetimeMonths per LifetimeMonths per Lifetime";"Yes";"Yes";"Yes";"No";"No";2018
+275;"Eye Glasses for Children";"";"Yes";"Yes";"No";"No";"No";2018
+880;"Specialty Drugs";"";"Yes";"Yes";"No";"No";"Yes";2017
+625;"Outpatient Facility Fee (e.g.,  Ambulatory Surgery Center)";"";"Yes";"Yes";"No";"No";"No";2017
+660;"Pediatric Services Other";"";"No";"Yes";"No";"No";"No";2017
+595;"Orthodontia - Child";"";"No";"No";"No";"No";"No";2017
+10;"Accidental Dental";"";"No";"No";"No";"Yes";"Yes";2017
+1040;"Well Child Care";"";"No";"Yes";"No";"No";"No";2017
+105;"Brain Injury";"";"No";"Yes";"No";"No";"No";2017
+125;"Cardiac and Pulmonary Rehabilitation";"Days per LifetimeDays per LifetimeDays per Lifetime";"No";"Yes";"Yes";"No";"No";2018
+275;"Eye Glasses for Children";"Item(s) per YearItem(s) per YearItem(s) per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+1030;"Weight Loss Programs";"Visit(s) per YearVisit(s) per YearVisit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+75;"Bariatric Surgery";"";"Yes";"Yes";"No";"No";"Yes";2017
+545;"Non-Preferred Generic Drugs";"";"No";"Yes";"No";"No";"No";2017
+835;"Routine Foot Care";"";"Yes";"No";"No";"No";"No";2017
+140;"Clinical Trials";"";"No";"Yes";"No";"No";"Yes";2017
+45;"Anesthesia Services for Dental Care";"";"No";"Yes";"No";"No";"No";2018
+335;"Hearing Aids";"";"Yes";"Yes";"No";"No";"No";2017
+835;"Routine Foot Care";"";"No";"Yes";"No";"Yes";"Yes";2017
+595;"Orthodontia - Child";"";"No";"Yes";"No";"Yes";"Yes";2017
+595;"Orthodontia - Child";"";"Yes";"No";"No";"No";"No";2017
+755;"Primary Care e-Visit";"";"No";"Yes";"No";"No";"Yes";2017
+115;"Cancer Treatments";"";"Yes";"Yes";"No";"No";"No";2017
+725;"Prescription Drugs Other";"";"Yes";"Yes";"No";"No";"No";2017
+400;"Infusion Therapy";"";"No";"Yes";"No";"No";"Yes";2018
+815;"Root Canal Therapy and Retreatment";"";"No";"Yes";"No";"No";"Yes";2017
+595;"Orthodontia - Child";"";"Yes";"No";"No";"No";"Yes";2018
+245;"Early Intervention Services";"Visit(s) per YearVisit(s) per YearVisit(s) per Year";"No";"Yes";"Yes";"No";"Yes";2017
+190;"Dental Check-Up for Children";"Visit(s) per 6 MonthsVisit(s) per 6 MonthsVisit(s) per 6 Months";"Yes";"Yes";"Yes";"No";"No";2017
+865;"Skilled Nursing Facility";"Visit(s) per Benefit PeriodVisit(s) per Benefit PeriodVisit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+80;"Basic Dental Care - Adult";"";"No";"No";"No";"Yes";"Yes";2018
+740;"Preventive Drugs";"";"No";"Yes";"No";"No";"No";2017
+590;"Orthodontia - Adult";"";"No";"No";"No";"Yes";"Yes";2017
+725;"Prescription Drugs Other";"";"No";"Yes";"No";"No";"No";2017
+415;"Inpatient Hospital Services (e.g., Hospital Stay)";"";"Yes";"Yes";"No";"No";"No";2017
+5;"Abortion for Which Public Funding is Prohibited";"";"No";"Yes";"No";"No";"No";2017
+140;"Clinical Trials";"";"No";"Yes";"No";"No";"No";2017
+515;"Newborn Services Other";"";"No";"No";"No";"No";"No";2017
+700;"Preferred Brand Drugs";"";"Yes";"Yes";"No";"No";"No";2017
+765;"Private-Duty Nursing";"";"Yes";"Yes";"No";"No";"Yes";2017
+350;"Home Health Care Services";"Visit(s) per Benefit PeriodVisit(s) per Benefit PeriodVisit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2017
+735;"Preventive Care/Screening/Immunization";"";"Yes";"Yes";"No";"No";"No";2017
+455;"Major Dental Care - Child";"";"No";"Yes";"No";"Yes";"Yes";2018
+825;"Routine Eye Exam (Adult)";"Visit(s) per 2 YearsVisit(s) per 2 YearsVisit(s) per 2 Years";"No";"Yes";"Yes";"No";"No";2017
+265;"Extractions";"";"No";"Yes";"No";"No";"Yes";2017
+135;"Chiropractic Care";"";"No";"No";"No";"No";"No";2018
+455;"Major Dental Care - Child";"Months per ProcedureMonths per ProcedureMonths per Procedure";"No";"Yes";"Yes";"No";"Yes";2017
+620;"Other Practitioner Office Visit (Nurse, Physician Assistant)";"Visit(s) per YearVisit(s) per YearVisit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+180;"Dental Anesthesia";"";"No";"No";"No";"No";"No";2017
+75;"Bariatric Surgery";"";"Yes";"Yes";"No";"No";"No";2017
+190;"Dental Check-Up for Children";"Visit(s) per Benefit PeriodVisit(s) per Benefit PeriodVisit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2018
+15;"Acupuncture";"";"No";"No";"No";"No";"No";2017
+85;"Basic Dental Care - Child";"";"Yes";"Yes";"No";"No";"Yes";2017
+195;"Dental X-rays";"Procedure(s) per 6 MonthsProcedure(s) per 6 MonthsProcedure(s) per 6 Months";"No";"Yes";"Yes";"No";"Yes";2017
+450;"Major Dental Care - Adult";"Months per ProcedureMonths per ProcedureMonths per Procedure";"No";"Yes";"Yes";"Yes";"Yes";2018
+565;"Nutritional Counseling";"";"No";"Yes";"No";"No";"Yes";2017
+795;"Rehabilitative Speech Therapy";"Visit(s) per Benefit PeriodVisit(s) per Benefit PeriodVisit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2017
+1000;"Treatment for Temporomandibular Joint Disorders";"Item(s) per 6 MonthsItem(s) per 6 MonthsItem(s) per 6 Months";"Yes";"Yes";"Yes";"No";"Yes";2018
+825;"Routine Eye Exam (Adult)";"";"No";"Yes";"No";"Yes";"Yes";2018
+820;"Routine Dental Services (Adult)";"";"No";"Yes";"No";"No";"Yes";2017
+820;"Routine Dental Services (Adult)";"";"No";"No";"No";"No";"No";2017
+735;"Preventive Care/Screening/Immunization";"Exam(s) per YearExam(s) per YearExam(s) per Year";"Yes";"Yes";"Yes";"No";"No";2018
+5;"Abortion for Which Public Funding is Prohibited";"";"No";"Yes";"No";"Yes";"No";2018
+1030;"Weight Loss Programs";"";"No";"Yes";"No";"Yes";"Yes";2017
+290;"Family Planning Services";"";"No";"Yes";"No";"No";"No";2017
+565;"Nutritional Counseling";"Visit(s) per Benefit PeriodVisit(s) per Benefit PeriodVisit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2018
+565;"Nutritional Counseling";"";"Yes";"Yes";"No";"No";"No";2017
+1010;"Treatment of hemophilia";"";"No";"Yes";"No";"No";"Yes";2018
+1000;"Treatment for Temporomandibular Joint Disorders";"Procedure(s) per YearProcedure(s) per YearProcedure(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+885;"Specialty Drugs Tier 2";"";"No";"Yes";"No";"No";"No";2018
+15;"Acupuncture";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2018
+450;"Major Dental Care - Adult";"";"No";"Yes";"No";"Yes";"Yes";2017
+455;"Major Dental Care - Child";"";"No";"Yes";"No";"Yes";"Yes";2018
+790;"Rehabilitative Occupational and Rehabilitative Physical Therapy";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+1045;"Wigs";"Item(s) per Year";"No";"Yes";"Yes";"No";"No";2017
+825;"Routine Eye Exam (Adult)";"Visit(s) per Year";"No";"Yes";"Yes";"Yes";"Yes";2018
+510;"Newborn Hearing Screening";"";"No";"Yes";"No";"No";"Yes";2018
+220;"Diabetes Education";"";"No";"Yes";"No";"No";"No";2017
+820;"Routine Dental Services (Adult)";"";"No";"Yes";"No";"Yes";"Yes";2017
+835;"Routine Foot Care";"";"Yes";"Yes";"No";"No";"No";2017
+595;"Orthodontia - Child";"";"Yes";"False";"No";"Yes";"Yes";2017
+490;"Mental/Behavioral Health Outpatient Services";"";"Yes";"Yes";"No";"No";"No";2017
+10;"Accidental Dental";"Treatment(s) per Episode";"No";"Yes";"Yes";"No";"Yes";2017
+460;"Mental Health Other";"";"Yes";"Yes";"No";"No";"No";2017
+665;"Periodontal Maintenance";"";"No";"Yes";"Yes";"No";"Yes";2017
+565;"Nutritional Counseling";"";"No";"Yes";"No";"No";"Yes";2017
+435;"Laboratory Outpatient and Professional Services";"";"Yes";"Yes";"No";"No";"No";2017
+360;"Hospice Services";"Months per LifetimeMonths per LifetimeMonths per Lifetime";"Yes";"Yes";"Yes";"No";"No";2017
+760;"Primary care e-Visit";"";"No";"Yes";"No";"No";"Yes";2017
+215;"Diabetes Care Management";"";"Yes";"Yes";"Nein";"No";"No";2017
+5;"Abortion for Which Public Funding is Prohibited";"";"Yes";"Yes";"No";"No";"No";2017
+335;"Hearing Aids";"Visit(s) per 3 Years";"Yes";"Yes";"Yes";"No";"No";2017
+575;"Off Label Prescription Drugs";"";"No";"Yes";"No";"No";"Yes";2017
+40;"Anesthesia";"";"No";"Yes";"No";"No";"No";2017
+5;"Abortion for Which Public Funding is Prohibited";"";"No";"No";"No";"Yes";"Yes";2018
+335;"Hearing Aids";"Item(s) per 2 Years";"Yes";"Yes";"Yes";"No";"No";2017
+785;"Reconstructive Surgery";"";"Yes";"Yes";"No";"No";"No";2017
+895;"Substance Abuse Disorder Inpatient Services";"";"Yes";"Yes";"No";"No";"No";2017
+1035;"Well Baby Visits and Care";"";"Yes";"Yes";"No";"No";"No";2017
+275;"Eye Glasses for Children";"Item(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2017
+735;"Preventive Care/Screening/Immunization";"Exam(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2018
+245;"Early Intervention Services";"";"No";"Yes";"No";"No";"No";2017
+735;"Preventive Care/Screening/Immunization";"Exam(s) per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+360;"Hospice Services";"";"Yes";"Yes";"No";"No";"No";2017
+1030;"Weight Loss Programs";"";"No";"No";"No";"No";"No";2017
+765;"Private-Duty Nursing";"";"Yes";"No";"No";"No";"No";2017
+970;"Tier 6 Rx";"";"No";"Yes";"No";"No";"No";2017
+595;"Orthodontia - Child";"";"Yes";"No";"No";"No";"No";2017
+130;"Chemotherapy";"";"Yes";"Yes";"No";"No";"Yes";2017
+865;"Skilled Nursing Facility";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+865;"Skilled Nursing Facility";"Visit(s) per YearVisit(s) per YearVisit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+160;"Congenital Anomaly, including Cleft Lip/Palate";"";"No";"Yes";"No";"No";"No";2017
+5;"Abortion for Which Public Funding is Prohibited";"";"Yes";"Yes";"No";"No";"Yes";2017
+700;"Preferred Brand Drugs";"";"Yes";"Yes";"No";"No";"No";2017
+595;"Orthodontia - Child";"Treatment(s) per Lifetime";"Yes";"Yes";"Yes";"No";"No";2018
+640;"Outpatient Rehabilitation Services";"";"Yes";"Yes";"No";"No";"No";2017
+85;"Basic Dental Care - Child";"Procedure(s) per Year";"No";"Yes";"Yes";"No";"Yes";2017
+330;"Habilitation Services";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+805;"Restorative Services";"";"No";"Yes";"No";"No";"Yes";2017
+415;"Inpatient Hospital Services (e.g., Hospital Stay)";"";"Yes";"Yes";"No";"No";"Yes";2017
+835;"Routine Foot Care";"";"No";"Yes";"No";"Yes";"Yes";2017
+565;"Nutritional Counseling";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+80;"Basic Dental Care - Adult";"";"No";"Yes";"No";"Yes";"Yes";2017
+395;"Infertility Treatment";"";"Yes";"Yes";"No";"No";"Yes";2017
+610;"Osteoporosis Treatment";"";"No";"Yes";"No";"No";"Yes";2018
+765;"Private-Duty Nursing";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+880;"Specialty Drugs";"";"Yes";"Yes";"No";"No";"Yes";2017
+480;"Mental/Behavioral Health Inpatient Services";"";"Yes";"Yes";"No";"No";"Yes";2017
+85;"Basic Dental Care - Child";"";"Yes";"Yes";"No";"No";"Yes";2017
+315;"Genetic Testing";"";"No";"Yes";"No";"No";"No";2017
+795;"Rehabilitative Speech Therapy";"";"Yes";"Yes";"Nein";"No";"No";2017
+700;"Preferred Brand Drugs";"Days per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+30;"Allergy Testing";"";"No";"Yes";"No";"No";"No";2017
+145;"Cochlear Implants";"";"No";"Yes";"No";"No";"Yes";2018
+510;"Newborn Hearing Screening";"";"No";"No";"Nein";"No";"No";2017
+640;"Outpatient Rehabilitation Services";"Visit(s) per year";"Yes";"Yes";"Yes";"No";"No";2017
+190;"Dental Check-Up for Children";"";"Yes";"No";"No";"No";"No";2017
+85;"Basic Dental Care - Child";"";"Yes";"Yes";"No";"No";"No";2017
+765;"Private-Duty Nursing";"";"Yes";"Yes";"No";"No";"Yes";2017
+595;"Orthodontia - Child";"";"No";"No";"No";"No";"No";2017
+235;"Durable Medical Equipment";"";"Yes";"Yes";"No";"No";"No";2017
+260;"Enteral/Parenteral and Oral Nutrition Therapy";"";"No";"Yes";"No";"No";"No";2018
+80;"Basic Dental Care - Adult";"Dollars per Benefit Period";"No";"Yes";"Yes";"Yes";"Yes";2017
+275;"Eye Glasses for Children";"Item(s) per 2 Years";"Yes";"Yes";"Yes";"No";"Yes";2017
+825;"Routine Eye Exam (Adult)";"Visit(s) per 2 YearsVisit(s) per 2 YearsVisit(s) per 2 Years";"No";"Yes";"Yes";"No";"No";2017
+190;"Dental Check-Up for Children";"Treatment(s) per 6 Months";"Yes";"Yes";"Yes";"No";"Yes";2018
+830;"Routine Eye Exam for Children";"Exam(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+1000;"Treatment for Temporomandibular Joint Disorders";"";"No";"Yes";"No";"No";"No";2018
+415;"Inpatient Hospital Services (e.g., Hospital Stay)";"";"Yes";"Yes";"No";"No";"No";2017
+360;"Hospice Services";"Days per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+275;"Eye Glasses for Children";"Visit(s) per YearVisit(s) per YearVisit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+1015;"Urgent Care Centers or Facilities";"";"Yes";"Yes";"No";"No";"Yes";2017
+830;"Routine Eye Exam for Children";"";"Yes";"Yes";"No";"No";"Yes";2017
+305;"Generic Drugs";"";"Yes";"Yes";"No";"No";"No";2017
+75;"Bariatric Surgery";"Procedure(s) per Lifetime";"True";"Yes";"Yes";"No";"No";2017
+795;"Rehabilitative Speech Therapy";"Visit(s) per Year";"No";"Yes";"Yes";"No";"No";2018
+835;"Routine Foot Care";"";"Yes";"Yes";"No";"No";"Yes";2017
+335;"Hearing Aids";"Item(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2018
+100;"Bone Marrow Transplant";"";"No";"Yes";"No";"No";"No";2017
+615;"Ostomy Supplies";"";"No";"Yes";"No";"No";"No";2017
+235;"Durable Medical Equipment";"";"Yes";"Yes";"No";"No";"Yes";2017
+650;"Partial Hospitalization";"";"No";"Yes";"No";"No";"No";2018
+865;"Skilled Nursing Facility";"Days per Year";"No";"Yes";"Yes";"No";"No";2017
+330;"Habilitation Services";"Visit(s) per YearVisit(s) per YearVisit(s) per Year";"Yes";"Yes";"No";"No";"No";2017
+865;"Skilled Nursing Facility";"";"No";"No";"No";"No";"No";2017
+795;"Rehabilitative Speech Therapy";"Visit(s) per Benefit Period";"Yes";"Yes";"Yes";"No";"Yes";2017
+190;"Dental Check-Up for Children";"Visit(s) per 6 Months";"No";"Yes";"Yes";"No";"Yes";2017
+5;"Abortion for Which Public Funding is Prohibited";"";"No";"No";"No";"No";"No";2017
+190;"Dental Check-Up for Children";"Visit(s) per Year";"Yes";"No";"Yes";"No";"No";2018
+765;"Private-Duty Nursing";"";"Yes";"Yes";"Yes";"No";"No";2017
+330;"Habilitation Services";"Days per Year";"Yes";"Yes";"Si";"No";"No";2018
+180;"Dental Anesthesia";"";"No";"Yes";"No";"No";"Yes";2017
+825;"Routine Eye Exam (Adult)";"";"No";"No";"No";"No";"No";2017
+1030;"Weight Loss Programs";"";"No";"Yes";"No";"No";"No";2018
+690;"Post-Mastectomy Care";"";"No";"False";"No";"No";"No";2017
+25;"Allergy Injections";"";"No";"Yes";"No";"No";"No";2018
+865;"Skilled Nursing Facility";"Days per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+190;"Dental Check-Up for Children";"Visit(s) per Year";"Yes";"No";"No";"No";"No";2017
+565;"Nutritional Counseling";"";"No";"Yes";"No";"No";"Yes";2017
+765;"Private-Duty Nursing";"";"Yes";"Yes";"Yes";"No";"No";2018
+455;"Major Dental Care - Child";"";"Yes";"No";"No";"No";"Yes";2018
+735;"Preventive Care/Screening/Immunization";"";"Yes";"Yes";"No";"No";"No";2017
+650;"Partial Hospitalization";"";"No";"Yes";"No";"No";"Yes";2018
+820;"Routine Dental Services (Adult)";"";"No";"Yes";"No";"No";"Yes";2017
+275;"Eye Glasses for Children";"";"Yes";"Yes";"No";"No";"No";2018
+765;"Private-Duty Nursing";"Hours per Year";"Yes";"Yes";"Yes";"No";"Yes";2018
+1045;"Wigs";"";"No";"Yes";"No";"No";"Yes";2017
+540;"Non-Preferred Brand Drugs";"Days per Benefit Period";"Yes";"Yes";"Yes";"No";"No";2017
+455;"Major Dental Care - Child";"";"No";"Yes";"No";"No";"Yes";2017
+135;"Chiropractic Care";"Visit(s) per Year";"No";"Yes";"Yes";"No";"No";2017
+865;"Skilled Nursing Facility";"Visit(s) per Benefit Period";"True";"Yes";"Yes";"No";"No";2017
+235;"Durable Medical Equipment";"Dollars per Year";"Yes";"Yes";"Yes";"No";"No";2018
+700;"Preferred Brand Drugs";"";"Yes";"Yes";"No";"No";"Yes";2017
+395;"Infertility Treatment";"";"Yes";"No";"Nein";"No";"No";2018
+825;"Routine Eye Exam (Adult)";"Visit(s) per Year";"No";"Yes";"No";"Yes";"Yes";2017
+215;"Diabetes Care Management";"";"No";"Yes";"No";"No";"Yes";2017
+455;"Major Dental Care - Child";"";"No";"Yes";"No";"Yes";"Yes";2018
+125;"Cardiac and Pulmonary Rehabilitation";"Days per LifetimeDays per LifetimeDays per Lifetime";"No";"Yes";"Yes";"No";"No";2018
+515;"Newborn Services Other";"";"No";"No";"No";"No";"No";2017
+55;"Attention Deficit Disorder";"";"No";"Yes";"Nein";"No";"No";2018
+405;"Inherited Metabolic Disorder - PKU";"";"No";"No";"No";"No";"No";2017
+785;"Reconstructive Surgery";"";"Yes";"Yes";"No";"No";"No";2017
+835;"Routine Foot Care";"";"Yes";"No";"No";"No";"No";2017
+640;"Outpatient Rehabilitation Services";"Visit(s) per Year";"No";"Yes";"Yes";"No";"No";2018
+825;"Routine Eye Exam (Adult)";"Visit(s) per Benefit Period";"No";"Yes";"No";"Yes";"Yes";2018
+990;"Transplant";"";"Yes";"Yes";"No";"No";"No";2017
+830;"Routine Eye Exam for Children";"Visit(s) per Year";"Yes";"Yes";"Si";"No";"Yes";2017
+405;"Inherited Metabolic Disorder - PKU";"";"No";"Yes";"No";"No";"No";2017
+330;"Habilitation Services";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"Yes";2017
+135;"Chiropractic Care";"";"No";"No";"No";"No";"No";2018
+605;"Osteoporosis";"";"No";"Yes";"No";"No";"No";2017
+590;"Orthodontia - Adult";"";"No";"No";"No";"Yes";"Yes";2017
+340;"Hearing Exams/Testing";"";"No";"Yes";"No";"No";"No";2017
+1030;"Weight Loss Programs";"";"Yes";"Yes";"No";"No";"No";2017
+135;"Chiropractic Care";"";"True";"Yes";"No";"No";"Yes";2017
+365;"Human Leukocyte Antigen Testing";"Procedure(s) per Lifetime";"No";"Yes";"Yes";"No";"Yes";2017
+105;"Brain Injury";"";"No";"Yes";"No";"No";"No";2017
+740;"Preventive Drugs";"";"No";"Yes";"No";"No";"No";2017
+725;"Prescription Drugs Other";"";"No";"Yes";"No";"No";"No";2017
+625;"Outpatient Facility Fee (e.g.,  Ambulatory Surgery Center)";"";"Yes";"Yes";"No";"No";"No";2017
+135;"Chiropractic Care";"Visit(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+535;"Non-Emergency Care When Traveling Outside the U.S.";"";"No";"Yes";"No";"No";"No";2018
+120;"Cardiac Rehabilitation";"Visit(s) per YearVisit(s) per YearVisit(s) per Year";"No";"Yes";"Yes";"No";"No";2017
+135;"Chiropractic Care";"";"Yes";"Yes";"No";"No";"No";2017
+590;"Orthodontia - Adult";"";"No";"No";"No";"Yes";"Yes";2017
+835;"Routine Foot Care";"";"Yes";"No";"Nein";"No";"No";2017
+50;"Applied Behavior Analysis Based Therapies";"";"No";"Yes";"No";"No";"Yes";2017
+580;"Off-label Prescription Drugs";"";"No";"No";"No";"No";"No";2017
+275;"Eye Glasses for Children";"";"Yes";"Yes";"No";"No";"Yes";2017
+865;"Skilled Nursing Facility";"Days per Year";"Yes";"Yes";"No";"No";"No";2017
+595;"Orthodontia - Child";"";"Yes";"Yes";"Yes";"No";"Yes";2018
+695;"Post-cochlear implant aural therapy";"Visit(s) per Year";"No";"Yes";"Yes";"No";"No";2017
+725;"Prescription Drugs Other";"";"No";"No";"No";"No";"No";2017
+455;"Major Dental Care - Child";"";"Yes";"Yes";"No";"No";"No";2017
+835;"Routine Foot Care";"";"No";"Yes";"No";"No";"Yes";2017
+335;"Hearing Aids";"Item(s) per Year";"Yes";"Yes";"Yes";"No";"No";2017
+400;"Infusion Therapy";"";"No";"Yes";"No";"No";"Yes";2018
+455;"Major Dental Care - Child";"Months per ProcedureMonths per ProcedureMonths per Procedure";"No";"Yes";"Yes";"No";"Yes";2017
+85;"Basic Dental Care - Child";"";"Yes";"No";"No";"No";"No";2017
+350;"Home Health Care Services";"Days per Year";"Yes";"Yes";"Yes";"No";"No";2017
+70;"Autism Spectrum Disorders";"";"Yes";"Yes";"No";"No";"No";2017
+505;"Naprapathic Service";"Visit(s) per Benefit Period";"No";"Yes";"No";"No";"No";2018
+865;"Skilled Nursing Facility";"Days per Stay";"Yes";"Yes";"Yes";"No";"No";2017
+30;"Allergy Testing";"";"Yes";"Yes";"No";"No";"No";2017
+405;"Inherited Metabolic Disorder - PKU";"";"Yes";"Yes";"No";"No";"No";2017
+625;"Outpatient Facility Fee (e.g.,  Ambulatory Surgery Center)";"";"Yes";"Yes";"No";"No";"No";2017
+10;"Accidental Dental";"";"No";"Yes";"No";"Yes";"Yes";2018
+65;"Autism Spectrum Disorder - Non-Intensive Level Services";"Visit(s) per Year";"No";"Yes";"Yes";"No";"No";2017
+770;"Prosthetic Devices";"Item(s) per Year";"Yes";"Yes";"Yes";"No";"No";2018
+10;"Accidental Dental";"";"Yes";"Yes";"No";"No";"Yes";2017
+250;"Emergency Room Services";"";"Yes";"Yes";"No";"No";"Yes";2017
+10;"Accidental Dental";"";"Yes";"Yes";"No";"No";"No";2017
+535;"Non-Emergency Care When Traveling Outside the U.S.";"";"No";"Yes";"No";"No";"No";2018
+120;"Cardiac Rehabilitation";"Visit(s) per Episode";"No";"Yes";"Yes";"No";"Yes";2017
+255;"Emergency Transportation/Ambulance";"";"Yes";"Yes";"No";"No";"Yes";2017
+565;"Nutritional Counseling";"";"Yes";"Yes";"No";"No";"No";2017
+735;"Preventive Care/Screening/Immunization";"";"Yes";"Yes";"No";"No";"Yes";2017
+400;"Infusion Therapy";"";"No";"Yes";"No";"No";"Yes";2018
+120;"Cardiac Rehabilitation";"Visit(s) per Year";"No";"Yes";"Yes";"No";"No";2017
+960;"Tier 2 Rx";"";"No";"Yes";"No";"No";"No";2017
+640;"Outpatient Rehabilitation Services";"";"Yes";"Yes";"No";"No";"Yes";2017
+865;"Skilled Nursing Facility";"";"Yes";"No";"No";"No";"No";2017
+675;"Periodontal and Osseous Surgery";"Procedure(s) per 3 Years";"No";"Yes";"Yes";"No";"Yes";2017
+10;"Accidental Dental";"Dollars per Episode";"Yes";"Yes";"Yes";"No";"No";2017
+510;"Newborn Hearing Screening";"";"No";"Yes";"No";"No";"No";2017
+1000;"Treatment for Temporomandibular Joint Disorders";"";"No";"No";"No";"No";"No";2017
